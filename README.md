@@ -1,6 +1,8 @@
 # Parallel Programming
 These are "2019 NTHU CS542200 Parallel Programming" course projects.
 
+<h3>⭐⭐⭐ IF THIS REPO HELPS YOU, PLEASE GIVE ME A STAR! ⭐⭐⭐</h3>
+
 ## Homework 1: Odd-Even Sort
 Implement odd-even sort with MPI.
 
