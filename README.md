@@ -1,5 +1,5 @@
 # Parallel Programming
-These are "2019 NTHU CS542200 Parallel Programming" course projects.
+These are "NTHU CS5422 Parallel Programming" course projects.
 
 <h3>⭐⭐⭐ IF THIS REPO HELPS YOU, PLEASE GIVE ME A STAR! ⭐⭐⭐</h3>
 
